@@ -1,18 +1,14 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+fyfhcgch;Welcome+to+my+profile" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hi there, I'm fyfhcgch 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=8B949E&center=true&vCenter=true&width=400&lines=A+passionate+developer" alt="Typing SVG" />
-</p>
+<p align="center">A passionate developer from China</p>
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://deno-github-stats.deno.dev/api?username=fyfhcgch&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="49%" />
-  <img src="https://deno-github-stats.deno.dev/api/top-langs/?username=fyfhcgch&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="49%" />
+  <img src="./github-stats.svg" alt="GitHub Stats" width="49%" />
+  <img src="./github-top-langs.svg" alt="Top Languages" width="49%" />
 </div>
 
 ---
