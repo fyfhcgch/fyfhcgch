@@ -1,10 +1,22 @@
-<h1 align="center">Hi there, I'm fyfhcgch 👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=console.log(%22Hello%2C%20World!%22);Hi+there%2C+I'm+fyfhcgch;Welcome+to+my+profile" alt="Typing SVG" />
+</h1>
 
-<p align="center">A passionate developer from China</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=8B949E&center=true&vCenter=true&width=400&lines=A+passionate+developer+from+China" alt="Typing SVG" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Metrics
+
+<div align="center">
+  <img src="https://metrics.lecoq.io/fyfhcgch?template=classic&config.timezone=Asia%2FShanghai" alt="Metrics" />
+</div>
+
+---
+
+### 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats-nine-rose-46.vercel.app/api?username=fyfhcgch&show_icons=true&theme=radical&hide_border=true&v=2" alt="GitHub Stats" width="49%" />
@@ -21,10 +33,26 @@
 
 ---
 
-### 📈 Contribution Graph
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fyfhcgch&theme=radical&column=7&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
+
+---
+
+### � Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fyfhcgch&theme=react-dark&hide_border=true" alt="Activity Graph" />
+</div>
+
+---
+
+### 🌐 Social Stats
+
+<div align="center">
+  <img src="https://stats.justsong.cn/api/github?username=fyfhcgch" alt="GitHub Social Stats" />
 </div>
 
 ---
@@ -59,5 +87,5 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=fyfhcgch&label=Profile%20Views&color=58a6ff&style=flat-square" alt="Profile Views" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=fyfhcgch" alt="Visitor Badge" />
 </div>
