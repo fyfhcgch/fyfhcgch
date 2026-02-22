@@ -13,18 +13,11 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      
-      - name: Generate Trophy
-        uses: ry0ma/github-profile-trophy@master
-        with:
-          username: fyfhcgch
-          theme: radical
-          column: 7
-          no-frame: true
-          margin-w: 15
-          margin-h: 15
-          output: github-trophy.svg
-          
+
+      - name: Download Trophy SVG
+        run: |
+          curl -s "https://github-profile-trophy.vercel.app/?username=fyfhcgch&theme=radical&column=7&no-frame=true&margin-w=15&margin-h=15" -o github-trophy.svg
+
       - name: Commit and Push
         run: |
           git config user.name "github-actions[bot]"
