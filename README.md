@@ -8,7 +8,15 @@
 
 ---
 
-###  GitHub Stats
+### 📊 GitHub Metrics
+
+<div align="center">
+  <img src="./github-metrics.svg" alt="Metrics" width="100%" />
+</div>
+
+---
+
+### 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats-nine-rose-46.vercel.app/api?username=fyfhcgch&show_icons=true&theme=radical&hide_border=true&v=2" alt="GitHub Stats" width="49%" />
@@ -21,6 +29,14 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fyfhcgch&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy-ecru-seven.vercel.app/?username=fyfhcgch&theme=radical&column=7&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ---
