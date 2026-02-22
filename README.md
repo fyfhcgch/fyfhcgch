@@ -11,8 +11,19 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fyfhcgch&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fyfhcgch&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="49%" />
+
+[![GitHub Stats](https://stats.quine.sh/fyfhcgch/github?theme=dark)](https://quine.sh)
+
+</div>
+
+---
+
+### 💻 Most Used Languages
+
+<div align="center">
+
+[![Top Languages](https://stats.quine.sh/fyfhcgch/languages-over-time?theme=dark)](https://quine.sh)
+
 </div>
 
 ---
@@ -21,14 +32,6 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fyfhcgch&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fyfhcgch&theme=radical&column=7&no-frame=true" alt="GitHub Trophies" />
 </div>
 
 ---
