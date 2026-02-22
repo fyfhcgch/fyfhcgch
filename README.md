@@ -73,5 +73,5 @@
 ---
 
 <div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=fyfhcgch" alt="Visitor Badge" />
+  <img src="https://komarev.com/ghpvc/?username=fyfhcgch&label=Profile%20Views&color=58a6ff&style=flat-square" alt="Profile Views" />
 </div>
