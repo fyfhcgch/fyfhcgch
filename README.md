@@ -11,7 +11,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fyfhcgch&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fyfhcgch&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 ---
@@ -19,7 +19,7 @@
 ### 💻 Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fyfhcgch&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fyfhcgch&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
@@ -27,7 +27,7 @@
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fyfhcgch&theme=darkhub&column=7&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fyfhcgch&theme=onedark&column=7&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -35,7 +35,7 @@
 ### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fyfhcgch&theme=github-dark&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fyfhcgch&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
