@@ -11,12 +11,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fyfhcgch&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fyfhcgch&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </div>
 
 ---
 
-### � Most Used Languages
+### 💻 Most Used Languages
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fyfhcgch&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
@@ -36,6 +36,16 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fyfhcgch&theme=github-dark&hide_border=true" alt="Activity Graph" />
+</div>
+
+---
+
+### 🌃 GitHub Skyline
+
+<div align="center">
+  <a href="https://skyline.github.com/fyfhcgch/2024">
+    <img src="https://img.shields.io/badge/View%20My%20GitHub%20Skyline-3D%20Contribution%20Graph-blue?style=for-the-badge&logo=github" alt="GitHub Skyline" />
+  </a>
 </div>
 
 ---
