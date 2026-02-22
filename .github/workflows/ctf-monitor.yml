@@ -1,0 +1,42 @@
+name: 🎯 CTF 监控哨兵
+
+on:
+  schedule:
+    # 每天北京时间早上 9 点运行
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+
+jobs:
+  monitor-ctf:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      contents: read
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      
+      - name: Install dependencies
+        run: |
+          pip install requests
+      
+      - name: Run CTF Monitor
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: |
+          python .github/scripts/ctf_monitor.py
+      
+      - name: Commit tracked events
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .github/scripts/tracked_events.json
+          git diff --cached --quiet || git commit -m "Update tracked CTF events"
+          git push || echo "No changes to commit"

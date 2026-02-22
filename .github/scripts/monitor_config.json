@@ -1,0 +1,27 @@
+{
+  "sources": {
+    "ctftime": {
+      "enabled": true,
+      "url": "https://ctftime.org/api/v1/events/",
+      "days_ahead": 30
+    },
+    "custom_feeds": []
+  },
+  "filters": {
+    "min_duration_hours": 1,
+    "max_duration_hours": 168,
+    "keywords": [
+      "CTF",
+      "网络安全",
+      "信息安全",
+      "渗透测试"
+    ]
+  },
+  "issue_template": {
+    "labels": [
+      "CTF",
+      "竞赛提醒"
+    ],
+    "assignees": []
+  }
+}
