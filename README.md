@@ -10,19 +10,11 @@
 
 ---
 
-### 📊 GitHub Metrics
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/fyfhcgch?template=classic&config.timezone=Asia%2FShanghai&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&introduction=1&introduction.title=true&isocalendar=1&isocalendar.duration=half-year&languages=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FShanghai" alt="Metrics" />
-</div>
-
----
-
-### � GitHub Stats
-
-<div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=fyfhcgch&hide_title=true&hide_border=true&show_icons=true&line_height=24&text_color=ffffff&icon_color=ffffff&bg_color=0,52fa5a,4dfcff,c64dff&theme=radical" alt="GitHub Stats" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fyfhcgch&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=ffffff&icon_color=ffffff&bg_color=0,c64dff,4dfcff,52fa5a&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fyfhcgch&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fyfhcgch&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180px" />
 </div>
 
 ---
@@ -30,7 +22,7 @@
 ### ⏱️ GitHub Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fyfhcgch&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fyfhcgch&theme=radical&hide_border=true" />
 </div>
 
 ---
@@ -38,7 +30,7 @@
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fyfhcgch&theme=radical&column=7&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fyfhcgch&theme=radical&column=7&no-frame=true&margin-w=15&margin-h=15" />
 </div>
 
 ---
@@ -46,7 +38,7 @@
 ### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fyfhcgch&theme=react-dark&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fyfhcgch&theme=react-dark&hide_border=true" />
 </div>
 
 ---
@@ -55,7 +47,7 @@
 
 <div align="center">
   <a href="https://skyline.github.com/fyfhcgch/2024">
-    <img src="https://img.shields.io/badge/View%20My%20GitHub%20Skyline-3D%20Contribution%20Graph-blue?style=for-the-badge&logo=github" alt="GitHub Skyline" />
+    <img src="https://img.shields.io/badge/View%20My%20GitHub%20Skyline-3D%20Contribution%20Graph-blue?style=for-the-badge&logo=github" />
   </a>
 </div>
 
@@ -93,5 +85,5 @@
 ---
 
 <div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=fyfhcgch" alt="Visitor Badge" />
+  <img src="https://komarev.com/ghpvc/?username=fyfhcgch&label=Profile%20Views&color=58a6ff&style=flat-square" />
 </div>
