@@ -8,15 +8,7 @@
 
 ---
 
-### 📊 GitHub Metrics
-
-<div align="center">
-  <img src="./github-metrics.svg" alt="Metrics" width="100%" />
-</div>
-
----
-
-### 📈 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats-nine-rose-46.vercel.app/api?username=fyfhcgch&show_icons=true&theme=radical&hide_border=true&v=2" alt="GitHub Stats" width="49%" />
