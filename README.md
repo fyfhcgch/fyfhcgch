@@ -11,19 +11,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-
-[![GitHub Stats](https://stats.quine.sh/fyfhcgch/github?theme=dark)](https://quine.sh)
-
-</div>
-
----
-
-### 💻 Most Used Languages
-
-<div align="center">
-
-[![Top Languages](https://stats.quine.sh/fyfhcgch/languages-over-time?theme=dark)](https://quine.sh)
-
+  <img src="https://deno-github-stats.deno.dev/api?username=fyfhcgch&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="49%" />
+  <img src="https://deno-github-stats.deno.dev/api/top-langs/?username=fyfhcgch&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="49%" />
 </div>
 
 ---
