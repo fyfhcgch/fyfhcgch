@@ -8,15 +8,7 @@
 
 ---
 
-### 📊 GitHub Metrics
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/fyfhcgch?template=classic&config.timezone=Asia%2FShanghai" alt="Metrics" />
-</div>
-
----
-
-### 📈 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats-nine-rose-46.vercel.app/api?username=fyfhcgch&show_icons=true&theme=radical&hide_border=true&v=2" alt="GitHub Stats" width="49%" />
@@ -33,26 +25,10 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fyfhcgch&theme=radical&column=7&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
----
-
-### � Contribution Graph
+### 📊 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fyfhcgch&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</div>
-
----
-
-### 🌐 Social Stats
-
-<div align="center">
-  <img src="https://stats.justsong.cn/api/github?username=fyfhcgch" alt="GitHub Social Stats" />
 </div>
 
 ---
