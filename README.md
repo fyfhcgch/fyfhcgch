@@ -33,6 +33,14 @@
 
 ---
 
+### 🏆 LeetCode Stats
+
+<div align="center">
+  <img src="https://stats.justsong.cn/api/leetcode?username=interesting-bosebzz&cn=true&theme=dark" alt="LeetCode Stats" />
+</div>
+
+---
+
 ### 🛠️ Tech Stack
 
 <div align="center">
