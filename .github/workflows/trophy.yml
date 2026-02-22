@@ -1,0 +1,34 @@
+name: Generate Trophy
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  generate-trophy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Generate Trophy
+        uses: ry0ma/github-profile-trophy@master
+        with:
+          username: fyfhcgch
+          theme: radical
+          column: 7
+          no-frame: true
+          margin-w: 15
+          margin-h: 15
+          output: github-trophy.svg
+          
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add github-trophy.svg
+          git commit -m "Update trophy" || exit 0
+          git push
