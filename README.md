@@ -25,16 +25,6 @@
 
 ---
 
-
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="./github-trophy.svg" alt="GitHub Trophies" />
-</div>
-
----
-
 ### 📊 Contribution Graph
 
 <div align="center">
