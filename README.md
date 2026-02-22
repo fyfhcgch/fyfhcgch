@@ -33,13 +33,7 @@
 
 ---
 
-### 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy-ecru-seven.vercel.app/?username=fyfhcgch&theme=radical&v=2" alt="GitHub Trophies" />
-</div>
-
----
 
 ### 📊 Contribution Graph
 
