@@ -11,8 +11,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fyfhcgch&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fyfhcgch&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fyfhcgch&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fyfhcgch&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="49%" />
 </div>
 
 ---
