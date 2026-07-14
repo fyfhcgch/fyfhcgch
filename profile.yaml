@@ -1,0 +1,91 @@
+version: 1
+github:
+  username: fyfhcgch
+identity:
+  name: fyfhcgch
+  headline: APPLIED AI & SYSTEMS
+  tagline: Building practical AI, mobile diagnostics, and scientific tools.
+  location: China · UTC+8
+theme:
+  preset: control-plane
+  primary: "#00A7D1"
+  secondary: "#E84A8A"
+links:
+  - label: GitHub
+    url: https://github.com/fyfhcgch
+  - label: Blog
+    url: https://fyfhcgch.github.io
+  - label: Email
+    url: mailto:fyfhcgch@qq.com
+layers:
+  - name: LEARN
+    project: mine-clear-llm
+    description: Spatial reinforcement learning for Minesweeper with DQN, PPO, GRPO, and behavior cloning.
+    tone: primary
+  - name: PERCEIVE
+    project: firefly-assault-ai
+    description: A computer-vision and machine-learning agent for gameplay state recognition and control.
+    tone: primary
+  - name: MODEL
+    project: Drug-Withdrawal-Calculator
+    description: An Android research app for comparing taper schedules under an explicit pharmacokinetic model.
+    tone: primary
+  - name: INSPECT
+    project: BLE-Inspector
+    description: A rooted Android Bluetooth HCI capture, inspection, and export tool.
+    tone: secondary
+  - name: AUTOMATE
+    project: php-tools
+    description: Python tooling for automating PHP deserialization workflows.
+    tone: secondary
+  - name: DISCOVER
+    project: findfiles
+    description: A desktop file-search utility with filters, sorting, and export.
+    tone: secondary
+flagships:
+  - repo: Drug-Withdrawal-Calculator
+    role: MODEL
+    description: Compare taper schedules and relative withdrawal or rebound risk with PK simulation and uncertainty analysis.
+    tone: primary
+  - repo: mine-clear-llm
+    role: LEARN
+    description: Train and evaluate spatial Minesweeper policies with Gymnasium, PyTorch, DQN, PPO, GRPO, and behavior cloning.
+    tone: primary
+  - repo: BLE-Inspector
+    role: INSPECT
+    description: Capture, inspect, and export Android Bluetooth HCI traffic directly on rooted devices.
+    tone: secondary
+  - repo: firefly-assault-ai
+    role: PERCEIVE
+    description: Explore computer vision, game-state recognition, decision logic, and input control in Python.
+    tone: primary
+  - repo: php-tools
+    role: AUTOMATE
+    description: Automate PHP deserialization analysis workflows with Python.
+    tone: secondary
+  - repo: findfiles
+    role: DISCOVER
+    description: Search local files by extension, keyword, and size through a practical desktop GUI.
+    tone: secondary
+module_groups:
+  - name: AI and modeling
+    projects:
+      - repo: fc-stable-diffusion-18wm
+        description: Deploy Stable Diffusion to Alibaba Cloud Function Compute with Serverless Devs.
+      - repo: dianzi-cheng
+        description: An experiment in measuring weight with a mobile phone.
+  - name: Diagnostics and security
+    projects:
+      - repo: openshell-exploit
+        description: A GitHub Pages probe used to exercise an OpenShell challenge workflow.
+      - repo: fastcoll
+        description: C++ fast-collision code with practical usage notes.
+  - name: Desktop utilities
+    projects:
+      - repo: spider
+        description: A graphical web-crawling utility written in Python.
+      - repo: fyfhcgch.github.io
+        description: Personal notes and project writing published with Jekyll.
+settings:
+  show_stars: true
+  show_badges: true

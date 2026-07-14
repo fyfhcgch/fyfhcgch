@@ -1,75 +1,64 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=console.log(%22Hello%2C%20World!%22);Hi+there%2C+I'm+fyfhcgch;Welcome+to+my+profile" alt="Typing SVG" />
-</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
+  <img alt="fyfhcgch profile control plane" src="assets/hero-light.svg" width="100%">
+</picture>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=8B949E&center=true&vCenter=true&width=400&lines=A+passionate+developer+from+China" alt="Typing SVG" />
-</p>
+![profile](https://img.shields.io/badge/profile-fyfhcgch-00A7D1?style=flat-square&labelColor=102934) ![layers](https://img.shields.io/badge/layers-6-E84A8A?style=flat-square&labelColor=102934)
 
----
+Building practical AI, mobile diagnostics, and scientific tools\.
 
-###  GitHub Stats
+## Flagship systems
 
-<div align="center">
-  <img src="https://github-readme-stats-nine-rose-46.vercel.app/api?username=fyfhcgch&show_icons=true&theme=radical&hide_border=true&v=2" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats-nine-rose-46.vercel.app/api/top-langs/?username=fyfhcgch&layout=compact&theme=radical&hide_border=true&v=2" alt="Top Languages" width="49%" />
-</div>
+| Repository | Role | Purpose |
+| --- | --- | --- |
+| [`Drug-Withdrawal-Calculator`](https://github.com/fyfhcgch/Drug-Withdrawal-Calculator) ![stars](https://img.shields.io/github/stars/fyfhcgch/Drug--Withdrawal--Calculator?style=flat-square&label=%E2%98%85) | MODEL | Compare taper schedules and relative withdrawal or rebound risk with PK simulation and uncertainty analysis\. |
+| [`mine-clear-llm`](https://github.com/fyfhcgch/mine-clear-llm) ![stars](https://img.shields.io/github/stars/fyfhcgch/mine--clear--llm?style=flat-square&label=%E2%98%85) | LEARN | Train and evaluate spatial Minesweeper policies with Gymnasium, PyTorch, DQN, PPO, GRPO, and behavior cloning\. |
+| [`BLE-Inspector`](https://github.com/fyfhcgch/BLE-Inspector) ![stars](https://img.shields.io/github/stars/fyfhcgch/BLE--Inspector?style=flat-square&label=%E2%98%85) | INSPECT | Capture, inspect, and export Android Bluetooth HCI traffic directly on rooted devices\. |
+| [`firefly-assault-ai`](https://github.com/fyfhcgch/firefly-assault-ai) ![stars](https://img.shields.io/github/stars/fyfhcgch/firefly--assault--ai?style=flat-square&label=%E2%98%85) | PERCEIVE | Explore computer vision, game-state recognition, decision logic, and input control in Python\. |
+| [`php-tools`](https://github.com/fyfhcgch/php-tools) ![stars](https://img.shields.io/github/stars/fyfhcgch/php--tools?style=flat-square&label=%E2%98%85) | AUTOMATE | Automate PHP deserialization analysis workflows with Python\. |
+| [`findfiles`](https://github.com/fyfhcgch/findfiles) ![stars](https://img.shields.io/github/stars/fyfhcgch/findfiles?style=flat-square&label=%E2%98%85) | DISCOVER | Search local files by extension, keyword, and size through a practical desktop GUI\. |
 
----
+## Closed-loop architecture
 
-### ⏱️ GitHub Streak
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/closed-loop-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/closed-loop-light.svg">
+  <img alt="fyfhcgch architecture map" src="assets/closed-loop-light.svg" width="100%">
+</picture>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fyfhcgch&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+## Module registry
 
----
+<details>
+<summary><strong>AI and modeling</strong> · 2 modules</summary>
 
-### 📊 Contribution Graph
+| Module | Purpose |
+| --- | --- |
+| [`fc-stable-diffusion-18wm`](https://github.com/fyfhcgch/fc-stable-diffusion-18wm) | Deploy Stable Diffusion to Alibaba Cloud Function Compute with Serverless Devs\. |
+| [`dianzi-cheng`](https://github.com/fyfhcgch/dianzi-cheng) | An experiment in measuring weight with a mobile phone\. |
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fyfhcgch&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</div>
+</details>
 
----
+<details>
+<summary><strong>Diagnostics and security</strong> · 2 modules</summary>
 
-### 🏆 LeetCode Stats
+| Module | Purpose |
+| --- | --- |
+| [`openshell-exploit`](https://github.com/fyfhcgch/openshell-exploit) | A GitHub Pages probe used to exercise an OpenShell challenge workflow\. |
+| [`fastcoll`](https://github.com/fyfhcgch/fastcoll) | C\+\+ fast-collision code with practical usage notes\. |
 
-<div align="center">
-  <img src="https://stats.justsong.cn/api/leetcode?username=fyfhcgch&cn=true&theme=dark" alt="LeetCode Stats" />
-</div>
+</details>
 
----
+<details>
+<summary><strong>Desktop utilities</strong> · 2 modules</summary>
 
-### 🛠️ Tech Stack
+| Module | Purpose |
+| --- | --- |
+| [`spider`](https://github.com/fyfhcgch/spider) | A graphical web-crawling utility written in Python\. |
+| [`fyfhcgch.github.io`](https://github.com/fyfhcgch/fyfhcgch.github.io) | Personal notes and project writing published with Jekyll\. |
 
-<div align="center">
+</details>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-DEA584?style=flat-square&logo=rust&logoColor=black)
+<p align="center"><a href="https://github.com/fyfhcgch">GitHub</a> · <a href="https://fyfhcgch.github.io">Blog</a> · <a href="mailto:fyfhcgch@qq.com">Email</a></p>
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-</div>
-
----
-
-### 📫 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/fyfhcgch)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fyfhcgch@qq.com)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=fyfhcgch&label=Profile%20Views&color=58a6ff&style=flat-square" alt="Profile Views" />
-</div>
+<!-- Generated by profile-control-plane. Edit profile.yaml, not this file. -->
