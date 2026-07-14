@@ -5,8 +5,8 @@
 </picture>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/profile-fyfhcgch-00A7D1?style=flat-square&labelColor=102934" alt="Profile">
-  <img src="https://img.shields.io/badge/system-online-22A447?style=flat-square&labelColor=102934" alt="System online">
+  <img src="https://img.shields.io/badge/profile-fyfhcgch-00A7D1?style=flat-square&labelColor=00A7D1" alt="Profile">
+  <img src="https://img.shields.io/badge/system-online-22A447?style=flat-square&labelColor=22A447" alt="System online">
   <img src="https://komarev.com/ghpvc/?username=fyfhcgch&label=profile%20views&color=E84A8A&style=flat-square" alt="Profile views">
 </p>
 
@@ -64,23 +64,23 @@
 ## 06 / Toolchain
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-00A7D1?style=flat-square&logo=python&logoColor=white&labelColor=102934" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-E84A8A?style=flat-square&logo=javascript&logoColor=white&labelColor=102934" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-00A7D1?style=flat-square&logo=typescript&logoColor=white&labelColor=102934" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Go-E84A8A?style=flat-square&logo=go&logoColor=white&labelColor=102934" alt="Go">
-  <img src="https://img.shields.io/badge/Rust-00A7D1?style=flat-square&logo=rust&logoColor=white&labelColor=102934" alt="Rust">
+  <img src="https://img.shields.io/badge/Python-00A7D1?style=flat-square&logo=python&logoColor=white&labelColor=00A7D1" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-E84A8A?style=flat-square&logo=javascript&logoColor=white&labelColor=E84A8A" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-00A7D1?style=flat-square&logo=typescript&logoColor=white&labelColor=00A7D1" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Go-E84A8A?style=flat-square&logo=go&logoColor=white&labelColor=E84A8A" alt="Go">
+  <img src="https://img.shields.io/badge/Rust-00A7D1?style=flat-square&logo=rust&logoColor=white&labelColor=00A7D1" alt="Rust">
   <br><br>
-  <img src="https://img.shields.io/badge/Git-E84A8A?style=flat-square&logo=git&logoColor=white&labelColor=102934" alt="Git">
-  <img src="https://img.shields.io/badge/Docker-00A7D1?style=flat-square&logo=docker&logoColor=white&labelColor=102934" alt="Docker">
-  <img src="https://img.shields.io/badge/Linux-E84A8A?style=flat-square&logo=linux&logoColor=white&labelColor=102934" alt="Linux">
+  <img src="https://img.shields.io/badge/Git-E84A8A?style=flat-square&logo=git&logoColor=white&labelColor=E84A8A" alt="Git">
+  <img src="https://img.shields.io/badge/Docker-00A7D1?style=flat-square&logo=docker&logoColor=white&labelColor=00A7D1" alt="Docker">
+  <img src="https://img.shields.io/badge/Linux-E84A8A?style=flat-square&logo=linux&logoColor=white&labelColor=E84A8A" alt="Linux">
 </div>
 
 ## 07 / Uplinks
 
 <p align="center">
-  <a href="https://github.com/fyfhcgch"><img src="https://img.shields.io/badge/GitHub-00A7D1?style=flat-square&logo=github&logoColor=white&labelColor=102934" alt="GitHub"></a>
-  <a href="https://fyfhcgch.github.io"><img src="https://img.shields.io/badge/Blog-E84A8A?style=flat-square&logo=githubpages&logoColor=white&labelColor=102934" alt="Blog"></a>
-  <a href="mailto:fyfhcgch@qq.com"><img src="https://img.shields.io/badge/Email-00A7D1?style=flat-square&logo=gmail&logoColor=white&labelColor=102934" alt="Email"></a>
+  <a href="https://github.com/fyfhcgch"><img src="https://img.shields.io/badge/GitHub-00A7D1?style=flat-square&logo=github&logoColor=white&labelColor=00A7D1" alt="GitHub"></a>
+  <a href="https://fyfhcgch.github.io"><img src="https://img.shields.io/badge/Blog-E84A8A?style=flat-square&logo=githubpages&logoColor=white&labelColor=E84A8A" alt="Blog"></a>
+  <a href="mailto:fyfhcgch@qq.com"><img src="https://img.shields.io/badge/Email-00A7D1?style=flat-square&logo=gmail&logoColor=white&labelColor=00A7D1" alt="Email"></a>
 </p>
 
 <!-- Hero generated from profile.yaml with profile-control-plane. Telemetry cards and the contribution matrix update automatically. -->
