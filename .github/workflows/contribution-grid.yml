@@ -1,0 +1,36 @@
+name: Generate contribution matrix
+
+on:
+  schedule:
+    - cron: "17 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/contribution-grid.yml"
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate themed contribution matrices
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid.svg?palette=github-light&color_snake=#E84A8A&color_dots=#EBEDF0,#B6E3EC,#70CDDE,#2AB4CF,#00A7D1
+            dist/github-contribution-grid-dark.svg?palette=github-dark&color_snake=#E84A8A&color_dots=#102934,#144756,#0D6B7E,#048CA6,#00A7D1
+
+      - name: Publish matrices to output branch
+        uses: crazy-max/ghaction-github-pages@df5cc2bfa78282ded844b354faee141f06b41865 # v4
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "chore: update contribution matrix"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

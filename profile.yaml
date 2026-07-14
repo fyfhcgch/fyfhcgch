@@ -3,8 +3,8 @@ github:
   username: fyfhcgch
 identity:
   name: fyfhcgch
-  headline: APPLIED AI & SYSTEMS
-  tagline: Building practical AI, mobile diagnostics, and scientific tools.
+  headline: HELLO, WORLD / FYFHCGCH
+  tagline: A passionate developer from China.
   location: China · UTC+8
 theme:
   preset: control-plane
@@ -18,29 +18,37 @@ links:
   - label: Email
     url: mailto:fyfhcgch@qq.com
 layers:
-  - name: LEARN
-    project: mine-clear-llm
-    description: Spatial reinforcement learning for Minesweeper with DQN, PPO, GRPO, and behavior cloning.
+  - name: CODE
+    project: Python
+    description: Primary language for AI, automation, and developer tooling.
     tone: primary
-  - name: PERCEIVE
-    project: firefly-assault-ai
-    description: A computer-vision and machine-learning agent for gameplay state recognition and control.
+  - name: WEB
+    project: JavaScript
+    description: Web interfaces and browser-side experiments.
     tone: primary
-  - name: MODEL
-    project: Drug-Withdrawal-Calculator
-    description: An Android research app for comparing taper schedules under an explicit pharmacokinetic model.
+  - name: TYPES
+    project: TypeScript
+    description: Typed application and tooling development.
     tone: primary
-  - name: INSPECT
-    project: BLE-Inspector
-    description: A rooted Android Bluetooth HCI capture, inspection, and export tool.
+  - name: SERVE
+    project: Go
+    description: Services and systems experiments.
+    tone: primary
+  - name: SYSTEM
+    project: Rust
+    description: Systems programming and performance-focused tooling.
     tone: secondary
-  - name: AUTOMATE
-    project: php-tools
-    description: Python tooling for automating PHP deserialization workflows.
+  - name: VERSION
+    project: Git
+    description: Source history and collaborative development.
     tone: secondary
-  - name: DISCOVER
-    project: findfiles
-    description: A desktop file-search utility with filters, sorting, and export.
+  - name: PACKAGE
+    project: Docker
+    description: Reproducible application packaging and deployment.
+    tone: secondary
+  - name: RUNTIME
+    project: Linux
+    description: Daily development and deployment environment.
     tone: secondary
 flagships:
   - repo: Drug-Withdrawal-Calculator
